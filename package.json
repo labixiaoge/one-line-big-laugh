@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: a program that writes one funny line to /output/entry.txt","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"one-line-big-laugh","type":"module","version":"1.0.0"}
